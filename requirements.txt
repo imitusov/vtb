@@ -12,7 +12,7 @@ chardet==3.0.4
 click==7.1.2
 cycler==0.10.0
 cymem==2.0.3
-dataclasses==0.7
+dataclasses==0.6
 fastai==1.0.61
 fastprogress==1.0.0
 Flask==1.1.2
